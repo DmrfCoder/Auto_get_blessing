@@ -1,8 +1,7 @@
 # -*-coding:utf-8-*-
 import os
 import time
-from PIL import Image  # PIL(Python Imaging Library)提供基本图像操作,比如图像缩放、裁剪、旋转、颜色转换等
-
+from PIL import Image  
 logpath = "/home/dmrf/fu"
 
 
